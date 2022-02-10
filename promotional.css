@@ -1,0 +1,44 @@
+body {
+  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Gravitas One', cursive;
+  background-color: black ;
+  margin-top: 100px;
+ text-align: center;
+}
+
+h1 {
+  font-size: 82px;
+
+  color: rgb(186, 124, 14);
+  position: fixed;
+}
+
+h2{
+  font-size: 32px;
+
+  color: rgb(186, 124, 14);
+}
+.song{
+  height: 400px;
+  width: 400px;
+  border: 5px solid rgb(36, 35, 49);
+}
+
+.album{
+  height: 400px;
+  width: 400px;
+  border: 5px solid rgb(36, 35, 49);
+}
+
+.name {
+position: fixed;
+background: rgb(36, 35, 49);
+width: 100%;
+height: 15%;
+top: 0;
+}
+
+.tour{
+  height: 400px;
+  width: 400px;
+}
